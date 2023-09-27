@@ -1,2 +1,3 @@
-# dobetterroseville.org-terraform
-Terraform module powering dobetterroseville.org
+# Terraform for dobetterroseville.org
+
+Terraform module powering dobetterroseville.org.
